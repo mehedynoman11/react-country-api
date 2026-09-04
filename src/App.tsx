@@ -12,6 +12,8 @@ const countriePromise = async():Promise<CountryType[]> => {
 
 function App() {
 
+  
+
   return (
     <>
      <div>

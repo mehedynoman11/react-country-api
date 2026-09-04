@@ -4,6 +4,9 @@
     margin: 10px;
     border-radius: 10px;
 }
+.bg-color{
+    background-color: #3ab88e;
+}
 
 .country-child img{
     width: 200px;
